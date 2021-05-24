@@ -1,4 +1,16 @@
-# SpringBoot
+# Spring Boot Microservices
+
+Step 01 - Setting up Limits Microservice
+
+On Spring Initializr, choose:
+
+Group Id: com.in28minutes.microservices
+Artifact Id: limits-service
+Dependencies
+Web
+DevTools
+Actuator
+Config Client
 
 Microservice Project - Initial Dependencies Chosen
 https://github.com/nitishgondkar/SpringBootMicroservices/tree/main/limits-service
