@@ -1,12 +1,6 @@
 # Spring Boot Microservices
 
-Microservice Project - Initial Dependencies Chosen
-https://github.com/nitishgondkar/SpringBootMicroservices/tree/main/limits-service
-
-![image](https://user-images.githubusercontent.com/28915699/119313247-f5cb8380-bc90-11eb-80f3-37df005c5c34.png)
-
-
-# Course Useful Content
+## Course Useful Content
 
 CODE BACKUP FILES and STEP BY STEP CHANGES : For Reference
 Help for Debugging Problems:
