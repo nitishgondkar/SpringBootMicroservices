@@ -44,3 +44,12 @@ create mode 100644 limits-service.properties
 ````
 
 ![img.png](img.png)
+
+## Step 3 : Debugging problems with Spring Cloud Config Server - V2
+Debugging microservices problems can be difficult as there are multiple components involved.
+
+Step by Step instructions is provided in the troubleshooting guide to help you troubleshoot frequently occurring problems.
+
+Using the Chrome Browser is recommended.
+
+https://github.com/in28minutes/spring-microservices-v2/blob/main/03.microservices/01-step-by-step-changes/microservices-v2-1.md#spring-cloud-config-server---steps-01-to-08
