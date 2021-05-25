@@ -2,6 +2,7 @@
 
 ## Step 1 : To create configurations in GIT Repository
 
+````
 nitis@DESKTOP-6MJIE3J MINGW64 /e/Learn_Microservices/MY_GIT/SpringBootMicroservices (main)
 $ git --version
 git version 2.31.1.windows.1
@@ -36,6 +37,6 @@ $ git commit -m "Adding limits-service.propeties"
 [master (root-commit) bb5bcf6] Adding limits-service.propeties
 1 file changed, 2 insertions(+)
 create mode 100644 limits-service.properties
-
+````
 
 ![img.png](img.png)
