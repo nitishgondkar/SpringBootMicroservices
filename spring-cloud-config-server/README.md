@@ -53,3 +53,6 @@ Step by Step instructions is provided in the troubleshooting guide to help you t
 Using the Chrome Browser is recommended.
 
 https://github.com/in28minutes/spring-microservices-v2/blob/main/03.microservices/01-step-by-step-changes/microservices-v2-1.md#spring-cloud-config-server---steps-01-to-08
+
+## Step 4 : Pushing Config to Following Repository
+https://github.com/nitishgondkar/git-localconfig-repo
