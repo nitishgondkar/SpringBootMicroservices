@@ -1,6 +1,10 @@
 # **Spring Boot - Centralized (Spring Cloud Server) Configuration Example**
 
-## Step 1 : To create configurations in GIT Repository
+## Step 1 : Microservice Project - Initial Dependencies Chosen for below sample
+
+![img_1.png](img_1.png)
+
+## Step 2 : To create configurations in GIT Repository
 
 ````
 nitis@DESKTOP-6MJIE3J MINGW64 /e/Learn_Microservices/MY_GIT/SpringBootMicroservices (main)
