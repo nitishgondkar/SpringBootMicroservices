@@ -17,3 +17,10 @@ Response Structure
 "environment": "8000 instance-id"
 }
 ``
+
+
+# Dynamic Selecting Microservices from Naming Server Registry - EUREKA
+![img.png](img.png)
+
+## Refer Naming Server Application
+![img_1.png](img_1.png)
