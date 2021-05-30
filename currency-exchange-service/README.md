@@ -1,3 +1,10 @@
+# Design 
+![img_1.png](img_1.png)
+
+# Standard Ports Used
+
+![img_2.png](img_2.png)
+
 # Dependencies to Add
 
 ![img.png](img.png)
